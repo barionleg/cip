@@ -1,0 +1,32 @@
+{
+  "name": "cip",
+  "version": "1.0.2",
+  "description": "Pick color from a given color palette by index",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barionleg/cip.git"
+  },
+  "keywords": [
+    "color",
+    "interpolate",
+    "lerp",
+    "interpolate-arrays",
+    "interpolation",
+    "lerp",
+    "smootstep",
+    "palette",
+    "colormap",
+    "gradient"
+  ],
+  "homepage": "https://github.com/barionleg/",
+  "dependencies": {
+    "color-parse": "^1.2.0",
+    "color-space": "^1.14.3",
+    "lerp": "^1.0.3",
+    "mumath": "^3.0.0"
+  }
+}
